@@ -1,1 +1,1 @@
-parrot
+def parrot
